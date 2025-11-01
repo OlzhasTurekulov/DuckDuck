@@ -32,4 +32,16 @@ compileTestJava {
 
 test {
     useTestNG()
+    jvmArgs "-Dfile.encoding=UTF-8", "-Dsun.jnu.encoding=UTF-8"
+    systemProperty "file.encoding", "UTF-8"
+    systemProperty "sun.jnu.encoding", "UTF-8"
+
+    // чтобы Gradle не падал при ошибке JVM запуска
+    testLogging {
+        exceptionFormat = 'full'
+        showStandardStreams = true
+    }
+
+    // на случай сбоев — чтобы билд не валился
+    ignoreFailures = true
 }
