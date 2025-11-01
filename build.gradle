@@ -32,4 +32,6 @@ compileTestJava {
 
 test {
     useTestNG()
+    systemProperty "file.encoding", "UTF-8"
+    jvmArgs "-Dfile.encoding=UTF-8"
 }
