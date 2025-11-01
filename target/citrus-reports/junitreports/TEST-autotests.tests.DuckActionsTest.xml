@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="autotests.tests.DuckActionsTest" time="0.0" tests="7" errors="0" skipped="0" failures="0">
+    <testcase name="DuckActionsTest.successfulFlyActive" classname="autotests.tests.DuckActionsTest" time="0.0"/>
+    <testcase name="DuckActionsTest.successfulFlyFixed" classname="autotests.tests.DuckActionsTest" time="0.0"/>
+    <testcase name="DuckActionsTest.successfulPropertiesActive" classname="autotests.tests.DuckActionsTest" time="0.0"/>
+    <testcase name="DuckActionsTest.successfulPropertiesFixed" classname="autotests.tests.DuckActionsTest" time="0.0"/>
+    <testcase name="DuckActionsTest.successfulPropertiesNotRubber" classname="autotests.tests.DuckActionsTest" time="0.0"/>
+    <testcase name="DuckActionsTest.successfulPropertiesUndefined" classname="autotests.tests.DuckActionsTest" time="0.0"/>
+    <testcase name="DuckActionsTest.successfulSwim" classname="autotests.tests.DuckActionsTest" time="0.0"/>
+</testsuite>

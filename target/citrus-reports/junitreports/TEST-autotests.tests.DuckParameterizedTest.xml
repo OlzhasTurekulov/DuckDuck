@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="autotests.tests.DuckParameterizedTest" time="0.0" tests="5" errors="0" skipped="0" failures="0">
+    <testcase name="DuckParameterizedTest.successfulDuckCreate" classname="autotests.tests.DuckParameterizedTest" time="0.0"/>
+    <testcase name="DuckParameterizedTest.successfulDuckCreate" classname="autotests.tests.DuckParameterizedTest" time="0.0"/>
+    <testcase name="DuckParameterizedTest.successfulDuckCreate" classname="autotests.tests.DuckParameterizedTest" time="0.0"/>
+    <testcase name="DuckParameterizedTest.successfulDuckCreate" classname="autotests.tests.DuckParameterizedTest" time="0.0"/>
+    <testcase name="DuckParameterizedTest.successfulDuckCreate" classname="autotests.tests.DuckParameterizedTest" time="0.0"/>
+</testsuite>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="TestSuite" time="0.0" tests="20" errors="0" skipped="0" failures="0">
+    <testcase name="DuckActionsTest.successfulFlyActive" classname="autotests.tests.DuckActionsTest" time="0.0"/>
+    <testcase name="DuckActionsTest.successfulFlyFixed" classname="autotests.tests.DuckActionsTest" time="0.0"/>
+    <testcase name="DuckActionsTest.successfulPropertiesActive" classname="autotests.tests.DuckActionsTest" time="0.0"/>
+    <testcase name="DuckActionsTest.successfulPropertiesFixed" classname="autotests.tests.DuckActionsTest" time="0.0"/>
+    <testcase name="DuckActionsTest.successfulPropertiesNotRubber" classname="autotests.tests.DuckActionsTest" time="0.0"/>
+    <testcase name="DuckActionsTest.successfulPropertiesUndefined" classname="autotests.tests.DuckActionsTest" time="0.0"/>
+    <testcase name="DuckActionsTest.successfulSwim" classname="autotests.tests.DuckActionsTest" time="0.0"/>
+    <testcase name="DuckParameterizedTest.successfulDuckCreate" classname="autotests.tests.DuckParameterizedTest" time="0.0"/>
+    <testcase name="DuckParameterizedTest.successfulDuckCreate" classname="autotests.tests.DuckParameterizedTest" time="0.0"/>
+    <testcase name="DuckParameterizedTest.successfulDuckCreate" classname="autotests.tests.DuckParameterizedTest" time="0.0"/>
+    <testcase name="DuckParameterizedTest.successfulDuckCreate" classname="autotests.tests.DuckParameterizedTest" time="0.0"/>
+    <testcase name="DuckParameterizedTest.successfulDuckCreate" classname="autotests.tests.DuckParameterizedTest" time="0.0"/>
+    <testcase name="DuckTest.successfulCreate" classname="autotests.tests.DuckTest" time="0.0"/>
+    <testcase name="DuckTest.successfulCreateDB" classname="autotests.tests.DuckTest" time="0.0"/>
+    <testcase name="DuckTest.successfulCreateDefault" classname="autotests.tests.DuckTest" time="0.0"/>
+    <testcase name="DuckTest.successfulDeleteExist" classname="autotests.tests.DuckTest" time="0.0"/>
+    <testcase name="DuckTest.successfulDeleteNotExist" classname="autotests.tests.DuckTest" time="0.0"/>
+    <testcase name="DuckTest.successfulGetAllIds" classname="autotests.tests.DuckTest" time="0.0"/>
+    <testcase name="DuckTest.successfulGetAllIdsEmpty" classname="autotests.tests.DuckTest" time="0.0"/>
+    <testcase name="DuckTest.successfulUpdate" classname="autotests.tests.DuckTest" time="0.0"/>
+</testsuite>
